@@ -1,2 +1,2 @@
 
-http://blog.csdn.net/column/details/mybatis-principle.html ÉîÈëÀí½âmybatisÔ­Àí(´ÓMybatisµÄÕûÌå¼Ü¹¹Ô­Àí£¬µ½Ã¿¸öÄ£¿éµ¥¶À½âÎö)
+http://blog.csdn.net/column/details/mybatis-principle.html æ·±å…¥ç†è§£mybatisåŸç†(ä»Mybatisçš„æ•´ä½“æ¶æ„åŸç†ï¼Œåˆ°æ¯ä¸ªæ¨¡å—å•ç‹¬è§£æ)

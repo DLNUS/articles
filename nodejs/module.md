@@ -1,4 +1,4 @@
 
-http://www.infoq.com/cn/articles/nodejs-module-mechanism ÉîÈëÇ³³öNode.js£¨Èı£©£ºÉîÈëNode.jsµÄÄ£¿é»úÖÆ
+http://www.infoq.com/cn/articles/nodejs-module-mechanism æ·±å…¥æµ…å‡ºNode.jsï¼ˆä¸‰ï¼‰ï¼šæ·±å…¥Node.jsçš„æ¨¡å—æœºåˆ¶
 
-http://www.html-js.com/article/A-day-to-learn-JavaScript-understanding-Nodejs-in-moduleexports-and-exports Àí½âNode.jsÖĞµÄmodule.exportsºÍexports
+http://www.html-js.com/article/A-day-to-learn-JavaScript-understanding-Nodejs-in-moduleexports-and-exports ç†è§£Node.jsä¸­çš„module.exportså’Œexports

@@ -1,8 +1,8 @@
 
-https://promisesaplus.com/ Promises/A+¹æ·¶
+https://promisesaplus.com/ Promises/A+è§„èŒƒ
 
-https://cnodejs.org/topic/560dbc826a1ed28204a1e7de Node.js×îĞÂ¼¼ÊõÕ»Ö®PromiseÆª
+https://cnodejs.org/topic/560dbc826a1ed28204a1e7de Node.jsæœ€æ–°æŠ€æœ¯æ ˆä¹‹Promiseç¯‡
 
-https://cnodejs.org/topic/5603cb8a152fdd025f0f5014 ¼òµ¥ÊµÏÖPromise/A+. ¶Ô×ÅÎÄµµ .º¬×¢ÊÍ
+https://cnodejs.org/topic/5603cb8a152fdd025f0f5014 ç®€å•å®ç°Promise/A+. å¯¹ç€æ–‡æ¡£ .å«æ³¨é‡Š
 
-http://liubin.github.io/promises-book/#introduction JavaScript PromiseÃÔÄãÊé£¨ÖĞÎÄ°æ£©´ÓÔ­Àíµ½ÊµÕ½
+http://liubin.github.io/promises-book/#introduction JavaScript Promiseè¿·ä½ ä¹¦ï¼ˆä¸­æ–‡ç‰ˆï¼‰ä»åŸç†åˆ°å®æˆ˜
